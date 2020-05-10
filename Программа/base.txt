@@ -1,0 +1,17 @@
+_______________________________________________________________________________________________________
+|   Id|           Name|         Author|          Genre|      Extension|    Size(Kbyte)|        Cost($)|
+|    1|  Enter Sandman|      Metallica|           rock|            wav|           4341|              3|
+|    2|           Lazy|    Deep purple|           rock|            wav|           6473|              1|
+|    3|    Seven Devil|           FaTM|            pop|            wma|           5242|              2|
+|    4|   Dance monkey|    Tones and I|          indie|            mp3|           7465|              5|
+|    5|  Drop That Low|         Tujamo|        hip-hop|            mp3|           8673|              4|
+|    6|         Lalala|    Y2K & bbno$|            rap|            ogc|           6724|             12|
+|    7|         Lordly|          Feder|          dance|            mp3|          14323|             15|
+|    8|    Party Train|         Redfoo|        electro|            ogc|           7514|              4|
+|    9|      Sunflower|    Post Malone|        hip-hop|            wav|           6534|              7|
+|   10|        Lean On|    Major Lazer|           soul|            ogc|           9248|             10|
+|   11|         NO LIE|      Sean Paul|            pop|            mp3|          11647|              4|
+|   12|       Good Day|           DNCE|      indie-pop|            wav|           3564|              7|
+|   13|   Gangam Style|            PSY|           kpop|            mp3|           1345|             20|
+|   14|        Ride It|         Regard|          dance|            wma|          13542|             11|
+
